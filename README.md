@@ -24,4 +24,5 @@ playlist based on most listened to artists, genres, and tracks for the user.
 - HTML (Jinja2)
 - CSS
 - Spotify API
+- OAuth
 
