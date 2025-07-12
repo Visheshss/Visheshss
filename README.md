@@ -4,7 +4,7 @@ Hi, I’m Vishesh Suthar, a Software Engineering student at McMaster University!
 
 ## What I'm working on right now: Stickistic
 
-### 🔧 Familiar Technologies
+### 🔧 My Toolbox
 - Python (Flask, sqlalchemy)
 - JavaScript (React.js)
 - HTML
@@ -12,14 +12,6 @@ Hi, I’m Vishesh Suthar, a Software Engineering student at McMaster University!
 - Various APIs
 - Raspberry Pi
 - CronJob
-
-
-
-### 🔧 Technologies I use in general
-- Python (Flask, sqlalchemy)
-- JavaScript (React.js)
-- HTML (Jinja2)
-- CSS (Flexbox)
-- APIs
 - PostgreSQL
 - Dart (Flutter)
+
